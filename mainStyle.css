@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'FiraCode Nerd Font Mono';
+    font-family: 'FiraV';
     src: url('fonts/FiraCodeNerdFont-Regular.woff') format('woff');
 }
 
 body {
-    font-family: "FiraCode Nerd Font Mono", "CaskaydiaMono NF Light", serif;
+    font-family: "FiraV", "CaskaydiaMono NF Light", serif;
     font-size: 12px;
     color: #a49482;
     background-color: #181a1b;
@@ -12,7 +12,7 @@ body {
 }
 
 #toolBar {
-    font-family: "FiraCode Nerd Font Mono", "CaskaydiaMono NF Light", serif;
+    font-family: "FiraV", "CaskaydiaMono NF Light", serif;
     font-size: 9pt;
     padding: 8px;
     display: flex;
@@ -24,7 +24,7 @@ body {
 
 #bottomBar {
     margin: 10px;
-    font-family: "FiraCode Nerd Font Mono", "CaskaydiaMono NF Light", serif;
+    font-family: "FiraV", "CaskaydiaMono NF Light", serif;
     font-size: 9pt;
     padding: 8px;
     display: flex;
@@ -109,6 +109,7 @@ input:focus {
     outline: none;
     border: 1pt solid coral;
 }
+
 
 
 
